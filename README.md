@@ -1,13 +1,6 @@
-<a href="https://github.com/RacoonDog/MeteorServerSeeker/releases/tag/snapshot">
+<a href="https://github.com/Ogmur/ServerSeeker/releases/tag/snapshot">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download-2b2b2b?style=for-the-badge&logo=download&logoColor=white" width=2000 >
 </a>
-
-## 📢 Important Notice 📢
-
-**On 10/12/2024, GitHub responded to a DMCA takedown notice submitted by the Fifth Column griefing group that claimed that the ServerSeekerV2 project infringed on their copyright for the ServerSeeker project.
-This claim is entirely baseless and constitutes an abuse of GitHub's DMCA system as well as perjury.**
-For more information, see [here](https://gist.github.com/RacoonDog/41d88a21e2d7bab4d1ad075b77ee1248).
-
 
 ## Installing
 1. Download Meteor Client (https://meteorclient.com/download), for help see https://meteorclient.com/faq/installation
@@ -20,19 +13,12 @@ For more information, see [here](https://gist.github.com/RacoonDog/41d88a21e2d7b
 <br>    
 
 <a href="https://serverseeker.net/docs.html"> ![Powered by ServerSeeker](https://img.shields.io/badge/Powered%20by%20the%20ServerSeeker--API-%232b2b2b.svg?style=for-the-badge&logo=python&logoColor=18d3ae)</a>
-![Github Stars](https://img.shields.io/github/stars/RacoonDog/MeteorServerSeeker?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
-![Downloads](https://img.shields.io/github/downloads/RacoonDog/MeteorServerSeeker/total?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
+![Github Stars](https://img.shields.io/github/stars/Ogmur/ServerSeeker?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
+![Downloads](https://img.shields.io/github/downloads/Ogmur/ServerSeeker/total?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
 
 
 
 ## How to use:
-### Logging in:
-Click on the big button saying <b>"ServerSeeker"</b> <br />  
-![image](https://github.com/DAMcraft/MeteorServerSeeker/assets/101678546/e3d2802e-b541-4746-97e1-7bedf18eb72c) <br />
-![image](https://github.com/DAMcraft/MeteorServerSeeker/assets/101678546/5d45147c-15ad-4429-80b7-7503d8f0d227) <br />
-![image](https://github.com/DAMcraft/MeteorServerSeeker/assets/101678546/2cc0022d-a701-42f0-a84c-7a23a4c8051f) <br />
-Be aware that all information I get from Discord is "public" information (username, profile picture, etc.) <br />
-
 ### Searching for servers
 ![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/c2a2e2d9-1872-4199-a0ef-e16aba0c894d) <br />
 Let's say we want to <b>find cracked servers</b> with at least 2 players online. Because of this I am setting <b>"Cracked" to "Yes" and "Online Players" to "At least 2"</b>   <br />

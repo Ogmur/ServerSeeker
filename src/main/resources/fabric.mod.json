@@ -5,14 +5,14 @@
   "name": "ServerSeeker",
   "description": "Search for basically any Minecraft server that exists. Basically copenheimer, but public and better.",
   "authors": [
-    "Crosby"
+    "The Fifth Column"
   ],
   "contact": {
-    "repo": "https://github.com/RacoonDog/MeteorServerSeeker/",
-    "discord": "https://discord.gg/serverseeker-1087081486747971705",
+    "repo": "https://github.com/Ogmur/ServerSeeker/",
+    "discord": "https://discord.gg/fabricmc",
     "homepage": "https://serverseeker.net/",
-    "issues": "https://github.com/RacoonDog/MeteorServerSeeker/issues",
-    "sources": "https://github.com/RacoonDog/MeteorServerSeeker/"
+    "issues": "https://github.com/Ogmur/ServerSeeker/issues",
+    "sources": "https://github.com/Ogmur/ServerSeeker/"
   },
   "icon": "assets/serverseeker/icon.png",
   "environment": "client",
