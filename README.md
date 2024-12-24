@@ -13,8 +13,8 @@
 <br>    
 
 <a href="https://serverseeker.net/docs.html"> ![Powered by ServerSeeker](https://img.shields.io/badge/Powered%20by%20the%20ServerSeeker--API-%232b2b2b.svg?style=for-the-badge&logo=python&logoColor=18d3ae)</a>
-![Github Stars](https://img.shields.io/github/stars/Ogmur/ServerSeeker?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
-![Downloads](https://img.shields.io/github/downloads/Ogmur/ServerSeeker/total?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
+![Github Stars](https://img.shields.io/github/stars/Ogmur/ServerSeeker)
+![Downloads](https://img.shields.io/github/downloads/Ogmur/ServerSeeker/total)
 
 
 
