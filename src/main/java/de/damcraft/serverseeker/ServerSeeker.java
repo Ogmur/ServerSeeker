@@ -30,11 +30,10 @@ public class ServerSeeker extends MeteorAddon {
     /*
     Feature list for anticope.pages.dev:
     (creates features matching the RegEx '(?:add\(new )([^(]+)(?:\([^)]*)\)\)', as anticope checks for that.
-    add(new Find servers with many parameters, for example: Cracked, Description, Player count, much more...())
-    add(new Server database with around 1.000.000 servers!())
-    add(new Over 80.000.000 players tracked!())
+    add(new Find servers with many parameters, for example: Cracked, MOTD, Loader, Player Count and MANY MORE!!!())
+    add(new Server database with over 3,000.000 servers!())
+    add(new Over 100 MILLION players tracked!())
     add(new Search for ANY server you want!())
-    add(new Join misconfigured BungeeCord backends with any name you want!())
      */
     public static final Logger LOG = LogUtils.getLogger();
     public static final Category CATEGORY = new Category("ServerSeeker", Items.SPYGLASS.getDefaultStack());
