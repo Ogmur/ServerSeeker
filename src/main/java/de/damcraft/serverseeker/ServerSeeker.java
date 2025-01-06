@@ -31,7 +31,7 @@ public class ServerSeeker extends MeteorAddon {
     Feature list for anticope.pages.dev:
     (creates features matching the RegEx '(?:add\(new )([^(]+)(?:\([^)]*)\)\)', as anticope checks for that.
     add(new Find servers with many parameters, for example: Cracked, MOTD, Loader, Player Count and MANY MORE!!!())
-    add(new Server database with over 3,000.000 servers!())
+    add(new Server database with over 3,000,000 servers!())
     add(new Over 100 MILLION players tracked!())
     add(new Search for ANY server you want!())
      */
