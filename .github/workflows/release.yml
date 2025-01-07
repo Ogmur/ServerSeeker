@@ -1,0 +1,38 @@
+name: Publish Release Build
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          java-version: 21
+          distribution: 'temurin'
+
+      - name: Extract Version Information
+        id: extract_versions
+        run: |
+          mod_version=$(grep '^mod_version=' gradle.properties | cut -d'=' -f2)
+          minecraft_version=$(grep '^minecraft_version=' gradle.properties | cut -d'=' -f2)
+          echo "mod_version=$mod_version"
+          echo "minecraft_version=$minecraft_version"
+          echo "mod_version=$mod_version" >> $GITHUB_ENV
+          echo "minecraft_version=$minecraft_version" >> $GITHUB_ENV
+
+      - name: Build
+        run: ./gradlew build -Pcommit=${{ github.sha }}
+
+      - name: Release
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: '${{ secrets.GITHUB_TOKEN }}'
+          automatic_release_tag: '${{ env.minecraft_version }}-${{ env.mod_version }}'
+          prerelease: false
+          title: 'Release Minecraft ${{ env.minecraft_version }} - Mod ${{ env.mod_version }}'
+          files: |
+            ./build/libs/*.jar
