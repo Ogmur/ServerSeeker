@@ -18,8 +18,8 @@ jobs:
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: '${{ secrets.GITHUB_TOKEN }}'
-          automatic_release_tag: snapshot
+          automatic_release_tag: 'snapshot-${{ github.sha }}'
           prerelease: true
-          title: Dev Build
+          title: 'Dev Build for ${{ github.sha }}'
           files: |
             ./build/libs/*.jar
