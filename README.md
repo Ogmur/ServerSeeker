@@ -20,26 +20,26 @@
 
 ## How to use:
 ### Searching for servers
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/c2a2e2d9-1872-4199-a0ef-e16aba0c894d) <br />
+![image](https://github.com/user-attachments/assets/854ccdbd-a577-4267-a7e4-a83019a8dc1d)<br />
 Let's say we want to <b>find cracked servers</b> with at least 2 players online. Because of this I am setting <b>"Cracked" to "Yes" and "Online Players" to "At least 2"</b>   <br />
 The mod searches servers automatically for your current Minecraft version.   <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/f7df9cdd-c462-4f85-ab75-e26cd629a738) <br />
+![image](https://github.com/user-attachments/assets/9a4b8d40-1474-416c-a986-5b20134aa86f) <br />
 After clicking on "Find", we can now just <b>add all servers</b>  <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/54e96b95-a533-4edc-93cf-1d58f81a399f)  <br />
+![image](https://github.com/user-attachments/assets/e097d35f-b580-4d9f-83e5-a7f2de429641) <br />
 And just that easy, the servers are now in your server list!   <br />
-![image](https://github.com/DAMcraft/MeteorServerSeeker/assets/43420467/df47e6f6-b9bd-425c-98e8-e598602ede1e)  <br />
+![image](https://github.com/user-attachments/assets/909d27ee-24ee-414a-8b3b-5b0f1782cf1b) <br />
 
 
 ### Searching for players
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/27192b9b-32a4-4ca2-b9df-3eb40812c85c) <br />
-Let's say we want to find the player with the name <b>"DAM"</b>. We just type "DAM" into the box, and click on <b>"Find Player"</b>   <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/3438c676-65b5-44da-914f-22f526db48dc)  <br />
+![image](https://github.com/user-attachments/assets/3bfc1700-f6e2-4fc3-9982-d6bef77a3fe0) r<br />
+Let's say we want to find the player with the name <b>"Ogmur"</b>. We just type "Ogmur" into the box, and click on <b>"Find Player"</b>   <br />
+![image](https://github.com/user-attachments/assets/cacfa8bb-6cda-4f9b-8ceb-2d5675016a3e) <br />
 Now we can just add the servers we want, or <b>even add all!</b>   <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/b15cdfd1-d9e0-4ad4-90fa-33d5712cddb7) <br />
+![image](https://github.com/user-attachments/assets/ecc4c511-873f-4ca2-9b90-00a568ec3b72) <br />
 
 
 ### Getting players on a server
 Simply select a server and click on <b>"Get players"</b>!   <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/449c0950-49e2-4242-80b0-2063a4052e8a)  <br />
+![image](https://github.com/user-attachments/assets/1224583b-a4e5-439c-b950-a2445504a627) <br />
 You can now see the player history. Clicking on <b>"Login"</b> will log you into the account in cracked mode.    <br />
-![image](https://github.com/Kaiasaurin/MeteorServerSeeker/assets/101678546/a684197e-1c07-4999-83b7-71add0cce97b) <br />
+![image](https://github.com/user-attachments/assets/cedad536-8f87-48e0-b9c7-1ff0bd382682) <br />
