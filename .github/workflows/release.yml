@@ -33,6 +33,6 @@ jobs:
           repo_token: '${{ secrets.GITHUB_TOKEN }}'
           automatic_release_tag: '${{ env.minecraft_version }}-${{ env.mod_version }}'
           prerelease: false
-          title: 'Release Minecraft ${{ env.minecraft_version }} - Mod ${{ env.mod_version }}'
+          title: '${{ env.minecraft_version }} - ${{ env.mod_version }}'
           files: |
             ./build/libs/*.jar
