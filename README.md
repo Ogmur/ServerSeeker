@@ -1,3 +1,10 @@
+> ⚠️ **Project Under Maintenance**  
+> This project is currently undergoing maintenance and will be back in due time.  
+> In the meantime, join our [Discord](https://discord.gg/MLPI) to get access to a **private scanner** after reaching **Associate** (25 griefs).  
+> Type `!role` in the server for info on how to get a role.  
+> Compete with others using `/leaderboard` and check your stats with `/checkscore`.
+
+
 <a href="https://github.com/Ogmur/ServerSeeker/releases/tag/snapshot">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download-2b2b2b?style=for-the-badge&logo=download&logoColor=white" width=2000 >
 </a>
